@@ -13,7 +13,7 @@ public class Driver {
 	public static void main(String[] args) {
 		
 		// my int array
-		int arr[] = {15, 2, 54, 23, 54, 69, 1, 12, 30};
+//		int arr[] = {15, 2, 54, 23, 54, 69, 1, 12, 30};
 		
 		// array of integers
 		Integer myArray[] = {15, 2, 54, 23, 54, 69, 1, 12, 30, 25};
